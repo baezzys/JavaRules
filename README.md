@@ -19,5 +19,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Jinwoo Bae - [wlsdn3578@gmail.com](mailto:wlsdn3578@gmail.com)
-
-Project Link: [https://github.com/baezzys/javasrules](https://github.com/baezzys/javasrules)
